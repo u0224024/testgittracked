@@ -5,3 +5,5 @@ ttt1
 
 this is test the git diff
 test the stash save in pom1.txt
+
+just merge the master into bugfix test !!
